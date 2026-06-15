@@ -1,3 +1,8 @@
+
+DEPRECIATED!! Check out my ACCII Repo.
+
+---
+
 UNTESTED THEORY
 GFORTH
 
